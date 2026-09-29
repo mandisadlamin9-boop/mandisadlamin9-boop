@@ -57,21 +57,25 @@ I hold a **Higher Certificate in Information Technology** and a **Diploma in ICT
 
 ## 🚀 Featured Projects
 
-### 🛒 [CartCraft](https://pro-stack-hub-cart-craft.vercel.app/)
+### 🛒 CartCraft
 Full-featured e-commerce storefront with secure login, cart and Stripe checkout. Built during my ProStackHub internship.  
-`React` `Node.js` `Azure SQL` `Stripe`
+`React` `Node.js` `Azure SQL` `Stripe`  
+<a href="https://pro-stack-hub-cart-craft.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-FF69B4?style=flat-square" /></a>
 
-### 📚 [ShelfLife](https://pro-stack-hub-shelf-life.vercel.app/)
+### 📚 ShelfLife
 Reading tracker for searching books and logging reading progress. Built during my ProStackHub internship.  
-`React` `Node.js` `Express` `Azure SQL` `JWT`
+`React` `Node.js` `Express` `Azure SQL` `JWT`  
+<a href="https://pro-stack-hub-shelf-life.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-FF69B4?style=flat-square" /></a>
 
-### 🐾 [PetCare Management System](https://petcare-lee-dbgbfafrhmauaga0.westus3-01.azurewebsites.net)
+### 🐾 PetCare Management System
 Group project helping vet clinics and pet care centres manage pet registrations, owner details and appointments.  
-`C#` `ASP.NET MVC` `Entity Framework` `SQL Server` `Azure`
+`C#` `ASP.NET MVC` `Entity Framework` `SQL Server` `Azure`  
+<a href="https://petcare-lee-dbgbfafrhmauaga0.westus3-01.azurewebsites.net"><img src="https://img.shields.io/badge/Live%20Demo-FF69B4?style=flat-square" /></a>
 
-### 🤖 [Aura](https://snap-productivity.lovable.app/)
+### 🤖 Aura
 AI workplace assistant that drafts emails and turns meeting notes into action items, built entirely through AI prompting.  
-`AI Prompting` `No-Code`
+`AI Prompting` `No-Code`  
+<a href="https://snap-productivity.lovable.app/"><img src="https://img.shields.io/badge/Live%20Demo-FF69B4?style=flat-square" /></a>
 
 ### 🎓 Student Attendance Management System *(in progress)*
 University project for managing student attendance and related academic information.  
@@ -94,4 +98,4 @@ University project for managing student attendance and related academic informat
   <i>🌸 Keep learning. Keep building. Keep growing. 🎀</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6D9&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F752C6&height=100&section=footer" width="100%" alt="" />
